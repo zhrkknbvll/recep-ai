@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+faiss-cpu
